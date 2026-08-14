@@ -2,7 +2,7 @@
   {
   "visibility": "VISIBLE",
     "upgrade_skin_enabled": true,
-  "min_version": "1.8",
+  "min_version": "1.9",
   "app_name": "ML Skin Tools",
   "dialog_title": "App under maintenance. Meanwhile, please use ML Tools GFX. Click update",
   "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi ML Tools GFX. klik update",
