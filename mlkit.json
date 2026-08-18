@@ -1,7 +1,7 @@
 [
   {
   "visibility": "VISIBLE",
-    "upgrade_skin_enabled": false,
+    "upgrade_skin_enabled": true,
   "min_version": "1.9",
   "app_name": "ML Skin Tools",
   "dialog_title": "App under maintenance. Meanwhile, please use Prime Tools ML. Click update",
