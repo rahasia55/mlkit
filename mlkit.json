@@ -2,7 +2,7 @@
   {
   "visibility": "VISIBLE",
     "upgrade_skin_enabled": false,
-  "min_version": "2.2",
+  "min_version": "3.3",
   "app_name": "ML Skin Tools",
   "dialog_title": "App under maintenance. Meanwhile, please use ML Tools Pro. Click update",
   "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi ML Tools Pro. klik update",
